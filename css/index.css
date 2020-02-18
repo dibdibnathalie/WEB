@@ -1,0 +1,8 @@
+display-1{ text-align: center }
+
+navbar-brand {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
